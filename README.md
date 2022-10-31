@@ -3,16 +3,16 @@
 Fujoushi website template
 Previews: https://readme.fujoulab.repl.co/
 
-# Setup
+# วิธีการติดตั้ง
 
-Prerequisites:
+สิ่งที่ต้องการเบื้องต้น:
 - Node.js
 
-## Website
+## เกี่ยวกับเว็บ
 
-Build the website for usage.
+ใช้คำสี่งเพื่อติดตั้งและใช้งาน
 
-commands:
+คำสั่ง:
 ```
 node install
 ```
