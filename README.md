@@ -14,5 +14,5 @@ Previews: https://readme.fujoulab.repl.co/
 
 คำสั่ง:
 ```
-node install
+npm install
 ```
